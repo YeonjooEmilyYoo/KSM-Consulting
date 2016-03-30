@@ -1,3 +1,4 @@
 # KSM-Consulting
 BNP Paribas Cardif Claim Management Project 
-There are two data sets provided from the project and I only used the test.csv
+There are two data sets provided from the project and test.csv was used for the analysis.
+
